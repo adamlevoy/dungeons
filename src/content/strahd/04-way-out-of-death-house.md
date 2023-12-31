@@ -1,0 +1,7 @@
+---
+title: Desperate for a way out of the Death House
+publishDate: 03/01/23
+description: Desperate for a way out of the Death House, Caryn opened a hole in the wall, unleashing a swarm of rats...
+---
+
+Desperate for a way out of the Death House, Caryn opened a hole in the wall, unleashing a swarm of rats. Gilgan struggled to squash the small creatures with his warhammer, but Caryn’s burning hands did the trick. The party combated poisonous smoke while descending several flights of stairs - it was ultimately too much for Wyn to bear. Grabbing his throat, he fell to the ground, behind him, Rollo also dropped but was rescued by Caryn. Rollo bolted to the exit attempting to evade slicing scythe blades in the front doorway. He made it through, but received a slash on the stomach, bringing him back to the ground. Caryn discovered a safe way out, sharing her knowledge with Gilgan who carried Rollo’s unconscious body to safety. The party's mourning of Lohar and Wyn was interrupted by none other than Strahd Von Zarovich who took this opportunity to welcome them to domain. Later, the party met Kavi, a Barovian with a fondness for poetry and bagpipes. After a bungled sleight of hand attempt at the general store, the party journeyed onwards towards Vallaki. Their ranks were bolstered by Oink the Beet Slayer, whom they met along the way. The party then met Madam Eva - a Vistana fortune teller who prophesied the location of several important items, an ally, and a final confrontation.

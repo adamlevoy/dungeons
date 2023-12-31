@@ -1,0 +1,7 @@
+---
+title: A run in with Strahd and the Tomb of Kavan
+publishDate: 05/16/23
+description: Last time, our heroes were back in action at the Wizard of Wines Vineyard. Rollo acquired a mysterious quarterstaff after the main floors of the Vineyard were secured...
+---
+
+Last time, our heroes were back in action at the Wizard of Wines Vineyard. Rollo acquired a mysterious quarterstaff after the main floors of the Vineyard were secured. Gilgan charged into the cellar - disrupting a druid’s sappy, happy hour. The evil druids were ousted and Davian Martikov extended the alliance of his faction, the Wereravens. Davian asked the party to retrieve the magic gems that power the growth of the vineyard’s grapes, so our team of adventurers continued on to the Druid’s homebase - Yester Hill. They found Strahd there with his nightmare steed Beucephalus, atop the hill staring off into the distance. After a short exchange in which Strahd congratulated the party on finding the tome, he departed. Gilgan was guided to the tomb of Kavan where bare-chested berserkers arose to protect the burial-site. Oink began putting his wyvern poison to good use, sniping enemies with his trusty longbow. Gilgan narrowly escaped a gruesome demise, cleaving through a berserker and druid at one fell swoop. Rollo kept his distance, blasting from afar while Caryn closed in with her trusty dagger. Oink brought down the final tomb guardian, and Kavan’s Cairn collapsed, revealing an ancient artifact…

@@ -1,0 +1,7 @@
+---
+title: It all began with a fancy dinner...
+publishDate: 01/11/22
+description: It all began with a fancy dinner… spirits were high, and bellies were full...
+---
+
+It all began with a fancy dinner… spirits were high, and bellies were full. The five acquaintances set out to speak with a band of Vistani travelers. The Vistani turned out to be excellent storytellers… perhaps too excellent as their story transported the listeners to a new and mysterious realm. Caryn and Rollo learned that the mist in this land was not to be trifled with as they continued along a simple road through a thick forest. Gilgan, inspired by Odin, charged through a gauntlet of scarecrows which came to life and nearly sent him to Valhalla. Wyn carved up a scarecrow like a turkey, and Rollo got a new hairstyle from a megabat. Arriving in a village, Caryn and Gilgan took a rest while Wyn and Lohar explored. Lohar purchased a dream pastry and it sent him on a magical trip back to his homeland. Rollo awoke Lohar from his daze, but upon hearing the curious effects of the delicacy, he couldn’t resist taking a bite himself. Thirsting for ale after his nap, Gilgan found his way to the local tavern where he met Ismark Kolyanovich. The two hit it off and Gilgan agreed to lend his hammer in aid of the noble’s sister, Ireena. After some peculiar happenings at the church of the Morninglord, Rollo persuaded the adventurers to investigate a nearby

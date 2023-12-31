@@ -1,0 +1,7 @@
+---
+title: The search through the seemingly abandoned manor
+publishDate: 01/25/22
+description: We return to the search through the seemingly abandoned manor… Hungry from the investigation, Gilgan stopped to eat some cheese...
+---
+
+We return to the search through the seemingly abandoned manor… Hungry from the investigation, Gilgan stopped to eat some cheese. Lohar found himself a top hat, and Rollo serenaded the party with an excellent tune on a harpsichord. On the second floor, in the library - Rollo discovered a secret door which hid several interesting documents. Afterwards Wyn ventured to the third floor where dust and cobwebs reigned. Gilgan took a blow from a suit of animated armor and Lohar nearly avoided being cleaned up by an animated broom. Rollo stumbled into an old nursery that was haunted by a specter. Wyn felt his life drifting away but a team effort by the clerics kept him in the land of the living. Afterwards, Caryn prayed for the soul of the specter, and Lohar found passage to the attic. Gilgan smashed through a lock revealing a dusty children’s room. It was inside this room, that the party met Rose and Thorn Durst and became intimately acquainted with them… Led by Lohar, the party entered another secret passage leading downwards into the basement of the manor. Upon reaching the bottom, they felt new strength rise up inside, bolstering their abilities, and giving them fresh courage to find and eliminate “the monster”...

@@ -1,0 +1,7 @@
+---
+title: A dance with the Vistani
+publishDate: 03/15/23
+description: Gilgan danced with the Vistani, while Oink, Rollo and Caryn searched for artifacts amongst the wagons and tents...
+---
+
+Gilgan danced with the Vistani, while Oink, Rollo and Caryn searched for artifacts amongst the wagons and tents. Oink found the Tome of Strahd, detailing the vampire’s dark history. Kavi hired a couple Vistani scouts and the party continued on towards Vallaki. Kavi revealed his healing skills after a pack of wolves ambushed them. The group then crossed a moss covered bridge leading deeper into the Barovian valley. This trek along mountain ridges had brought them to new heights, and they glimpsed the walled town of Vallaki from a distance. They also spotted a hunched figure outside a windmill. Learning that the mill was the source of the dream pastries, Gilgan followed the command of his growling stomach. At the mill’s entrance, a raven squawked as if in warning. Oink, aided by an invisibility spell, scaled the walls looking in the window on the second floor. Gilgan and Caryn purchased some oven-fresh pastries but something was amiss.. Gilgan discovered multiple locks of hair hidden inside the cabinets, Oink spotted blood on the old baker’s apron, and Rollo found a barrel filled with black ichor. It was then that Morgantha’s patience failed, and she began to transform before their very eyes into a horrific creature with horns, razor sharp nails, and purple skin. Gilgan felt a prickle at the back of his neck as he prepared a guiding bolt…

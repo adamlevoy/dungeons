@@ -1,0 +1,7 @@
+---
+title: A mouth full of guiding bolt
+publishDate: 02/08/23
+description: Finding nothing amongst a set of moldy straw beds, Wyn led the adventurers into a dining hall, where a carrion crawler lurked awaiting it’s next meal...
+---
+
+Finding nothing amongst a set of moldy straw beds, Wyn led the adventurers into a dining hall, where a carrion crawler lurked awaiting it’s next meal. Instead of food, it received a mouthful of guiding bolt from Gilgan. Lohar led the group down a hall, where four ghouls rose from the ground and attacked. The battle was fierce but the ghouls were no match for the newcomers to Barovia. Wyn discovered where the chanting was coming from, following it further down into the bowels of the estate. The relentless chant became audible “He is Ancient, He is the Land.” Lohar discovered a gold ring - was it perhaps an ill omen? Breaking through to a sacrificial chamber, Wyn learned an important lesson in dais etiquette. Dais aren’t always what Dey-iseem An ancient evil was awakened, and it carried out the decree of the chorus -- “One Must Die” Lohar - wearer of top hats, enjoyer of dream pastries, fell and was taken to the Altar of Sacrifice. Gilgan renewed his assault on the monster with fury - and Caryn sprinkled it with radiant damage, ultimately ending it’s curs’d existence upon the point of her dagger. The chanting ceased, and the ghost children were set to rest in their crypts. The party carried Lohar solemnly up the winding stairs. When they returned to the attic - the true nature of the house began to reveal itself…

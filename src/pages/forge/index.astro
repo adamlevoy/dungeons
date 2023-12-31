@@ -1,0 +1,59 @@
+---
+import { getCollection} from "astro:content";
+import formatDate from "../../utils/formatDate";
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const title = 'The Forge of Fury';
+const description = 'Latest entries from The Forge of Fury.';
+const permalink = `${Astro.site.href}forge`;
+
+let allEntries = await getCollection('forge');
+
+allEntries = allEntries.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
+---
+<BaseLayout title={title} description={description} permalink={permalink} current="forge">
+  <div class="container">
+    <h1>The Forge of Fury</h1>
+    {allEntries.map((entry, index) => {
+      const href = `/forge/${entry.slug}`;
+      return (
+        <div>
+          { index !== 0 && <hr /> }
+          <div class="entry-item">
+            <h2>
+              <span>#{entry.slug.split('-')[0]}</span>
+              <a href={href}>{entry.data.title}</a>
+            </h2>
+            <p>{entry.data.description}</p>
+            <div class="entry-item-footer">
+              <span class="entry-item-date">— {formatDate(entry.data.publishDate)}</span>
+            </div>
+          </div>
+        </div>
+      )
+    })}
+  </div>
+</BaseLayout>
+
+<style>
+  h2 > span {
+    color: var(--primary-color)
+  }
+  
+  h2,
+  .entry-item-footer {
+    font-family: var(--font-family-sans);
+    font-weight: 700;
+  }
+
+  .entry-item-date {
+    color: var(--text-secondary);
+    text-align: left;
+    text-transform: uppercase;
+    margin-right: 16px;
+  }
+
+  hr {
+    margin: 60px auto;
+  }
+</style>

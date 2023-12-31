@@ -1,0 +1,94 @@
+---
+import { Image } from 'astro:assets';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import strahdCover from "../assets/images/strahd-cover.jpg"
+import forgeCover from "../assets/images/forge-cover.jpeg"
+
+const title = 'Adventures in the Multiverse';
+const description = 'A journal recapping the stories of our adventures wandering through the multiverse';
+const permalink = Astro.site.href;
+---
+
+<BaseLayout title={title} description={description} permalink={permalink}>
+  <div class="home-container">
+    <div class="home-copy">
+      <h1>Choose your adventure</h1>
+      <p>A collection of journal entries recapping the stories of our adventures wandering through the multiverse.</p>
+    </div>
+
+    <div class="hero-image-container">
+      <a href="/strahd">
+        <Image src={strahdCover} alt="curse of strahd cover" />
+      </a>
+      <a href="/forge">
+        <Image src={forgeCover} alt="forge of fury cover" />
+      </a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    margin: 2em 0;
+    min-height: 400px;
+    text-align: center;
+  }
+
+  img {
+    max-width: 300px;
+    border-radius: 10px;
+  }
+
+  .home-copy {
+    flex: 1;
+    padding: 0 1em;
+  }
+
+  .home-copy h1 {
+    font-weight: 700;
+    margin-bottom: 0.5em;
+    line-height: 1.3;
+  }
+
+  .home-copy p {
+    font-size: 1.4em;
+    max-width: 60ch;
+  }
+
+  .hero-image-container {
+    display: flex;
+    flex-wrap: wrap;
+    place-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 1em;
+    text-align: center;
+  }
+
+  @media (max-width: 1200px) {
+    p {
+      font-size: 1.2em;
+    }
+
+    .hero-image {
+      max-width: 400px;
+    }
+  }
+
+  @media (max-width: 800px) {
+    .home-container {
+      flex-direction: column;
+    }
+
+    .home-copy {
+      flex: 0;
+      padding-bottom: 2em;
+      text-align: center;
+    }
+  }
+</style>
