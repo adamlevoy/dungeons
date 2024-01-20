@@ -1,6 +1,6 @@
 ---
 title: Desperate for a way out of the Death House
-publishDate: 03/01/23
+publishDate: 03/01/22
 description: Desperate for a way out of the Death House, Caryn opened a hole in the wall, unleashing a swarm of rats...
 ---
 

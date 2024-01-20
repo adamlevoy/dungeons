@@ -474,6 +474,118 @@ declare module 'astro:content' {
   collection: "strahd";
   data: any
 } & { render(): Render[".md"] };
+"13-festival-of-the-blazing-sun.md": {
+	id: "13-festival-of-the-blazing-sun.md";
+  slug: "13-festival-of-the-blazing-sun";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"14-raging-battle-with-vampires.md": {
+	id: "14-raging-battle-with-vampires.md";
+  slug: "14-raging-battle-with-vampires";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"15-seeking-the-fallen-order-of-the-silver-dragon.md": {
+	id: "15-seeking-the-fallen-order-of-the-silver-dragon.md";
+  slug: "15-seeking-the-fallen-order-of-the-silver-dragon";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"16-recovering-the-bones-of-argynvost.md": {
+	id: "16-recovering-the-bones-of-argynvost.md";
+  slug: "16-recovering-the-bones-of-argynvost";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"17-awoken-to-vallaki-at-war.md": {
+	id: "17-awoken-to-vallaki-at-war.md";
+  slug: "17-awoken-to-vallaki-at-war";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"18-the-caerwolf-is-born.md": {
+	id: "18-the-caerwolf-is-born.md";
+  slug: "18-the-caerwolf-is-born";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"19-guiding-bolts-get-the-party-started.md": {
+	id: "19-guiding-bolts-get-the-party-started.md";
+  slug: "19-guiding-bolts-get-the-party-started";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"20-face-to-face-with-werewolves.md": {
+	id: "20-face-to-face-with-werewolves.md";
+  slug: "20-face-to-face-with-werewolves";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"21-a-fancy-dress-for-the-abbot.md": {
+	id: "21-a-fancy-dress-for-the-abbot.md";
+  slug: "21-a-fancy-dress-for-the-abbot";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"22-the-werewolves-lair.md": {
+	id: "22-the-werewolves-lair.md";
+  slug: "22-the-werewolves-lair";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"23-bride-of-strahd.md": {
+	id: "23-bride-of-strahd.md";
+  slug: "23-bride-of-strahd";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"24-walk-through-a-treacherous-swamp.md": {
+	id: "24-walk-through-a-treacherous-swamp.md";
+  slug: "24-walk-through-a-treacherous-swamp";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"25-baba-lysaga-and-her-hut.md": {
+	id: "25-baba-lysaga-and-her-hut.md";
+  slug: "25-baba-lysaga-and-her-hut";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"26-two-vrocks-one-gate.md": {
+	id: "26-two-vrocks-one-gate.md";
+  slug: "26-two-vrocks-one-gate";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"27-oinks-bond-with-collosal-goat.md": {
+	id: "27-oinks-bond-with-collosal-goat.md";
+  slug: "27-oinks-bond-with-collosal-goat";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
+"28-ancient-amber-door-and-irresistable-gifts.md": {
+	id: "28-ancient-amber-door-and-irresistable-gifts.md";
+  slug: "28-ancient-amber-door-and-irresistable-gifts";
+  body: string;
+  collection: "strahd";
+  data: any
+} & { render(): Render[".md"] };
 };
 
 	};

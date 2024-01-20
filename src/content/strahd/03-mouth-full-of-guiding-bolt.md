@@ -1,6 +1,6 @@
 ---
 title: A mouth full of guiding bolt
-publishDate: 02/08/23
+publishDate: 02/08/22
 description: Finding nothing amongst a set of moldy straw beds, Wyn led the adventurers into a dining hall, where a carrion crawler lurked awaiting it’s next meal...
 ---
 

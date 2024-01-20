@@ -1,6 +1,6 @@
 ---
 title: Clutched in the not-so-gentle arms of Morgantha
-publishDate: 03/29/23
+publishDate: 03/29/22
 description: Rollo found himself clutched in the not-so-gentle arms of Morgantha, who dragged him up the stairs while her daughters fended off the companions with missiles and claws...
 ---
 

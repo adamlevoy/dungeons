@@ -3,6 +3,15 @@ import ThemeToggleButton from './ThemeToggleButton.svelte';
 const { current = '' } = Astro.props;
 ---
 
+<nav>
+  <a class={current === "" ? "selected" : ""} href='/'><span>🔮</span>home</a>
+  <a class={current === "strahd" ? "selected" : ""} href='/strahd'><span>🧛🏻‍♂️</span>strahd</a>
+  <a class={current === "forge" ? "selected" : ""} href='/forge'><span>🔥</span>forge</a>
+  <div class="theme-toggle-container">
+    <ThemeToggleButton client:load />
+  </div>
+</nav>
+
 <style>
   nav {
     align-items: center;
@@ -15,14 +24,17 @@ const { current = '' } = Astro.props;
   }
 
   a {
+    display: flex;
     color: inherit;
     text-decoration: none;
     padding: 10px 5px;
-    display: block;
     position: relative;
     margin-left: 20px;
-    min-width: 70px;
     text-align: center;
+  }
+
+  a > span {
+    margin-inline-end: 5px;
   }
 
   a:not(.selected) {
@@ -54,13 +66,3 @@ const { current = '' } = Astro.props;
     width: 75px;
   }
 </style>
-
-<nav>
-  <a class={current === "" ? "selected" : ""} href='/'>🔮 home</a>
-  <!-- <a class={current === "about" ? "selected" : ""} href='/about'>about</a> -->
-  <a class={current === "strahd" ? "selected" : ""} href='/strahd'>🧛🏻‍♂️ strahd</a>
-  <a class={current === "forge" ? "selected" : ""} href='/forge'>🔥 forge</a>
-  <div class="theme-toggle-container">
-    <ThemeToggleButton client:load />
-  </div>
-</nav>

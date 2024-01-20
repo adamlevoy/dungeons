@@ -1,6 +1,6 @@
 ---
 title: Leaving the walls of Vallaki behind
-publishDate: 05/09/23
+publishDate: 05/09/22
 description: Leaving the walls of Vallaki behind for the meantime, the travelers decided to look into the valley’s wine shortage problem...
 ---
 

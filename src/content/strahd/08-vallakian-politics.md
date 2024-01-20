@@ -1,6 +1,6 @@
 ---
 title: Vallakian politics - to be or not to be?
-publishDate: 04/25/23
+publishDate: 04/25/22
 description: Last time, Kavi entertained the Blue Water Inn with a tale. The party met a traveling ringmaster named Rictavio who was vacationing in Barovia...
 ---
 

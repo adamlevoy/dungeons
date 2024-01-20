@@ -1,6 +1,6 @@
 ---
 title: Odin's errand and the Wizard of Wines
-publishDate: 07/11/23
+publishDate: 07/11/22
 description: Gilgan completed Odin’s errand, retrieving the bloodspear and Kavi located the first magic gem, created by the Wizard of Wines - but he handed the gem over to Strahd, who was watching them from the Ethereal plane...
 ---
 

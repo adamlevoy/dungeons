@@ -1,6 +1,6 @@
 ---
 title: Scorching skeletons and a table made of bones
-publishDate: 08/15/23
+publishDate: 08/15/22
 description: Finding themselves In a dark room full of skeletons, Caryn lit things up, scorching many skellies to a crisp. Bones seemed to be the theme of this level of the Castle.
 ---
 

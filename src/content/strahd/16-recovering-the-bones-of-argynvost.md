@@ -1,0 +1,7 @@
+---
+title: Recovering the bones of Argynvost
+publishDate: 11/27/22
+description: Finding Vladimir Horngaard to be as stubborn as an old mule, the party resolved to recover the bones of Argynvost on their own...
+---
+
+Finding Vladimir Horngaard to be as stubborn as an old mule, the party resolved to recover the bones of Argynvost on their own. Caryn revealed a message left by the Silver Dragon after she mended an ancient painting. Kavi got a bit too excited handling a ballista which crumbled to dust beneath his fingertips. Outside the manor, the ominous threats continued as Gilgan found his name scrawled on a coffin full of bats. Heading back along the Old Svallich Road, the party was reunited with Morgantha and her ilk. Kavi distracted the hag long enough for the others to take down one of her daughters. Kavi covertly planted some brown mold in Morgantha’s pouch, and ignited it with fire breath. A deadly spore cloud erupted, knocking out Kavi, Oink and Ireena. Caryn awoke the fallen as Oink finished off the second Hag with his silver sword. Rollo had the final word with Morgantha, sending her to her long-deserved grave. The party returned to Vallaki to rest at the Blue Water Inn. Upon entering, they were met by a group of unfamiliar hooded figures, seated around a table. The mysterious patrons eyed our heroes suspiciously as they made their way to their rooms. The Barovian band awoke the next morning with new strength and conviction, where does that strength derive from? We will soon find out…

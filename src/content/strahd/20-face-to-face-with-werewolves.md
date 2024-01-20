@@ -1,0 +1,7 @@
+---
+title: Face to face with a pack of werewolves
+publishDate: 02/13/23
+description: Our heroes found themselves face to face with a pack of werewolves...
+---
+
+Our heroes found themselves face to face with a pack of werewolves. The foul beasts were no match for a double dose of spirit guardians and a critical g-bolt. Further along the Svallich Road, Oink was possessed by a baleful spirit. He began slowly marching to Castle Ravenloft. When it was clear that grappling and binding him was of no use - Caryn, Kavi and Rollo unleashed their frustration on the poor Ranger knocking him unconscious. When Oink awoke, he was free of the ghost and the party continued onwards, choosing to swing by the Vistani Camp at the Tser Pool. Oink sprained his ankle climbing down the cliff, but Madam Eva soothed the pain. She reminded the adventurers that the final artifact remained unclaimed and wished them well. Gilgan took flight for his appointment with the Wereravens and the crew investigated the vandalism of Kavi’s home in the village of Barovia. Following the tracks to a small clearing in the woods, Strahd emerged and attacked the party with a pack of vampire spawn. Ezmerelda D’Avenir joined forces with the good guys and they defended themselves against the forces of evil. Seeing his allies have fallen, Strahd turns his attention to you all and says "I suppose zat ees enough playingk around. Time to die."

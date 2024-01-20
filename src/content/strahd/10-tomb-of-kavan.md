@@ -1,6 +1,6 @@
 ---
 title: A run in with Strahd and the Tomb of Kavan
-publishDate: 05/16/23
+publishDate: 05/16/22
 description: Last time, our heroes were back in action at the Wizard of Wines Vineyard. Rollo acquired a mysterious quarterstaff after the main floors of the Vineyard were secured...
 ---
 

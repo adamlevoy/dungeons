@@ -1,6 +1,6 @@
 ---
 title: Under assault by bats and zombies
-publishDate: 04/11/23
+publishDate: 04/11/22
 description: Peace and quiet was short-lived for the adventurers. After discussing a wine shortage problem with the tavernkeeper, Danika, they were interrupted by an alarm. They soon found the town under assault by bats, and zombies led by Count Strahd himself...
 ---
 

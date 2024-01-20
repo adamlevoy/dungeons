@@ -1,0 +1,7 @@
+---
+title: The Caerwolf is born and in search of blood
+publishDate: 01/18/23
+description: Discovering that Krezk was without an Inn, the adventurers earned their keep by chopping wood, patrolling the walls and milking cows. After an impressive bout of wood splitting - The Caerwolf was born, and she fled town in search of blood...
+---
+
+Discovering that Krezk was without an Inn, the adventurers earned their keep by chopping wood, patrolling the walls and milking cows. After an impressive bout of wood splitting - The Caerwolf was born, and she fled town in search of blood. The next day, Kavi led a search party - finding Caryn lost and distraught in the Svallich Woods. Caryn was instructed by her deity to seek the Abbot, so the team devised a plan to sneak her into town and visit the Abbey of St. Markovia. The party was met with strange sights and sounds courtesy of the Belview family. Speaking with the Abbot did little to improve the Abbey’s atmosphere, but his request of a fine white dress seemed innocent enough. Kavi vibed with a two-headed bard with a lobster claw while Oink and Caryn scoured the cellar securing wine and a spell scroll! Kavi couldn’t resist ringing the church bell, leaving the halls resounding with screams and howls. After a quick dip in the bless’d spring - the team set off in the direction of the Wizard of Wines to learn more about Caryn’s affliction. They met an old acquaintance on the road. Arrigal of the Vistani - atop a dire wolf. “Ze sword. Hyand eet over plees’”

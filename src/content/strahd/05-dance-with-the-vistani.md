@@ -1,6 +1,6 @@
 ---
 title: A dance with the Vistani
-publishDate: 03/15/23
+publishDate: 03/15/22
 description: Gilgan danced with the Vistani, while Oink, Rollo and Caryn searched for artifacts amongst the wagons and tents...
 ---
 
